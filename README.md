@@ -17,4 +17,4 @@ mingw32-make
 nc -nlvp 1234
 ```
 5. Execute the file, and the shell should be opened in the server side.
-[!](screenshot.png)
+[!]([screenshot.png](https://github.com/Silme94/Tcp-Reverse-Shell/blob/main/screenshot.png)https://github.com/Silme94/Tcp-Reverse-Shell/blob/main/screenshot.png)
