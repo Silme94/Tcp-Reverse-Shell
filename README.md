@@ -4,7 +4,7 @@
 
 2. Clone the project.
 ```
-git clone
+git clone https://github.com/Silme94/Tcp-Reverse-Shell.git
 cd
 ```
 3. Compile the source code using Makefile.
